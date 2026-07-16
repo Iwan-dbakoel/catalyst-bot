@@ -2,3 +2,6 @@ yfinance
 pandas
 requests
 pytz
+fastapi
+uvicorn
+supabase
